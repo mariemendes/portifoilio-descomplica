@@ -1,0 +1,13 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+h2 {
+  color: fuchsia;
+}
+
+footer {
+  position: relative;
+  bottom: 0;
+  width: 100%;
+}
